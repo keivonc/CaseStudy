@@ -21,9 +21,9 @@ Welcome to this Case Study. Here are all the relevant data, code, and documents.
 + ClimateChangeRisk.pdf
 + TimeSeriesForecasting.pdf
 
-### Hook.pdf
+### Case Study Hook.pdf
 
-### Rubric.pdf
+### Case Study Rubric.pdf
 
 ### LICENSE
 
