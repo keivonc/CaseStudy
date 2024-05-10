@@ -21,6 +21,10 @@ Welcome to this Case Study. Here are all the relevant code and documents. Good l
 + ClimateChangeRisk.pdf
 + TimeSeriesForecasting.pdf
 
+### Hook.pdf
+
+### Rubric.pdf
+
 ### LICENSE
 
 ### README.md
